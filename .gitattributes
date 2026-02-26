@@ -47,3 +47,5 @@
 # Misc
 *.env text eol=lf
 *.lock text eol=lf
+
+.github/workflows/*.lock.yml linguist-generated=true merge=ours
